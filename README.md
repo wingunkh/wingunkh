@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on many people. :)
 - 📫 How to reach me ... -> 99gusrms@naver.com
 
- <a href="https://www.instagram.com/h_rooot/" target="_blank"><img src="https://img.shields.io/badge/FFFFFF?style=flat-square&logo=instagram.svg&logoColor=white"/></a>
+<a href="https://www.instagram.com/h_rooot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
