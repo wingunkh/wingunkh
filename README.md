@@ -15,6 +15,15 @@
 
 <br><br><br>
 
+<div align=center><h1>:abcd: Most used Languages :abcd:</h1></div>
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingunkh&theme=default&langs_count=10&layout=compact&align=center)]()
+
+</div>
+
+<br><br><br>
+
 <div align=center><h1>:wink: SNS :wink:</h1></div>
 <div align=center>
 <a href="https://www.instagram.com/whysroot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
