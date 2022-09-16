@@ -18,7 +18,7 @@
 <div align=center><h1>:abcd: Most used Languages :abcd:</h1></div>
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingunkh&theme=default&langs_count=10&layout=compact&align=center)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wingunkh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
