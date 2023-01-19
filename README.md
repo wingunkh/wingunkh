@@ -34,11 +34,3 @@
 <div align=center>
 <a href="https://www.instagram.com/whysroot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
-
-<br><br><br>
-
-<div align=center><h1>:eyes: Visitor Count :eyes:</h1></div>
-<div align=center>
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/wingunkh/count.svg" />
-</p>
