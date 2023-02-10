@@ -1,5 +1,5 @@
 <div align=center><h1>:book: Tech Stack :book:</h1></div>
-<div align=center><h3>Techs that I've used at least once</h3></div>
+<div align=center><h3>Techs that I've used at least once!</h3></div>
 <div align=center>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
