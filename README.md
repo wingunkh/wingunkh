@@ -1,3 +1,4 @@
+<!--
 <div align=center><h1>:book: Tech Stack :book:</h1></div>
 <div align=center><h3>Techs that I've used at least once!</h3></div>
 <div align=center>
@@ -24,6 +25,7 @@
 </div>
 
 <br><br>
+-->
 
 <div align=center><h1>:abcd: Most used Languages :abcd:</h1></div>
 <div align=center>
