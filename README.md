@@ -40,10 +40,3 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=busygunkh)](https://solved.ac/busygunkh/)
 </div>
-
-<br><br>
-
-<div align=center><h1>😉 Instagram 😉</h1></div>
-<div align=center>
-<a href="https://www.instagram.com/whysroot/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-</div>
