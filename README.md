@@ -8,4 +8,6 @@
 <div align=center>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=busygunkh)](https://solved.ac/busygunkh/)
+<img width="200" height="200" alt="NCA" src="https://github.com/user-attachments/assets/9170a3be-5b0e-401c-b4e0-8b76f5b71c93" />
+
 </div>
