@@ -14,6 +14,7 @@
 | 2024.06 | 정보처리기사
 | 2025.07 | NAVER Cloud Platform Certified Associate
 | 2025.10 | NAVER Cloud Platform Certified Professional
+| 2025.12 | NAVER Cloud Platform Certified Expert
 
 <h1> </h1>
 
