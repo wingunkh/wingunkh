@@ -15,6 +15,7 @@
 | 2025.07 | NAVER Cloud Platform Certified Associate
 | 2025.10 | NAVER Cloud Platform Certified Professional
 | 2025.12 | NAVER Cloud Platform Certified Expert
+| 2026.03 | AWS Certified Solutions Architect - Associate
 
 <h1> </h1>
 
